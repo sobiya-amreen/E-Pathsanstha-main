@@ -1,0 +1,29 @@
+.btn2{
+    width: 5rem;
+    height: 6rem;
+    margin-left: 2rem;
+    border: none;
+    color: blue;
+}
+.waves-effect {
+    width: 188px;
+    margin-left: 65px;
+    
+}
+.delete-icon{
+    /* background-color: red; */
+    color: red;
+    font-size: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+label {
+    float: right;
+}
+.card .header h2 {
+    color: #3F51B5;
+    font-weight: bold;
+}
+.buttonColor{
+    background-color: red;
+}

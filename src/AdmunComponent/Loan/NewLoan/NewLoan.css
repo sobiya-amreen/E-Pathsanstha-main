@@ -1,0 +1,23 @@
+.checkButton{
+    position: absolute;
+    top: 61rem;
+    right: 13rem;
+}
+.listButton{
+    position: absolute;
+    top: 104rem;
+    right: 13rem;
+}
+.primaryButton{
+    width: 4.7rem;
+
+}
+
+.secondaryButton{
+    position: absolute;
+    left: 27.2rem;
+    padding-left: 5px;
+    
+}
+ 
+

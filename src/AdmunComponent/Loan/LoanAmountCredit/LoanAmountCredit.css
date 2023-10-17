@@ -1,0 +1,10 @@
+.download_icon{
+    color: green;
+    font-size: 3.5rem;
+}
+
+.loanAfterDeduction_btn{
+    position: absolute;
+    top: 82rem;
+    right: 14rem;
+}
